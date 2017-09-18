@@ -2,7 +2,9 @@
   "name": "my-webapp-001",
   "private": true,
   "dependencies": {
-    "bootstrap": "~3.3.5"
+    "bootstrap": "~3.3.5",
+    "devextreme": "~17.1",
+    "devextreme-aspnet-data": "^1"
   },
   "overrides": {
     "bootstrap": {
